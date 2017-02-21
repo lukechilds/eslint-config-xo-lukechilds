@@ -1,5 +1,5 @@
 module.exports = {
-  "rules": {
-    "object-curly-spacing": ["error", "always"]
-  }
+	rules: {
+		'object-curly-spacing': ['error', 'always']
+	}
 };
