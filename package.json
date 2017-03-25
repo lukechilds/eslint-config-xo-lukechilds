@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/xo-lukechilds/eslint-config-xo-lukechilds#readme",
   "devDependencies": {
-    "xo": "^0.17.1"
+    "xo": "^0.19.0"
   },
   "dependencies": {}
 }
